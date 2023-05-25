@@ -71,12 +71,12 @@ To use the image forgery detection system, follow these steps:
 
 The code relies on the following libraries and frameworks:
 
-- streamlit: Used to create the web-based user interface.
-- tensorflow: Used to load the trained model and perform predictions.
-- numpy: Used for array manipulation and calculations.
-- pillow: Used for image preprocessing and manipulation.
-- sqlite3: Used for database management and user authentication.
-- hashlib: Used for password hashing.
+- `streamlit`: Used to create the web-based user interface.
+- `tensorflow`: Used to load the trained model and perform predictions.
+- `numpy`: Used for array manipulation and calculations.
+- `pillow`: Used for image preprocessing and manipulation.
+- `sqlite3`: Used for database management and user authentication.
+- `hashlib`: Used for password hashing.
 
 ## Note
 

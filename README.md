@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This code is an implementation of an image forgery detection system using Streamlit, TensorFlow, and PIL (Python Imaging Library). The system allows users to upload an image and detect if it has been tampered with or not. It uses a pre-trained deep learning model to make predictions on the uploaded image.
+This code is an implementation of an image forgery detection system using Streamlit, TensorFlow, and PIL (Python Imaging Library). The system allows users to upload an image and detect if it has been tampered with or not. It uses in house trained model to make predictions on the uploaded image.
 
 ## Security
 

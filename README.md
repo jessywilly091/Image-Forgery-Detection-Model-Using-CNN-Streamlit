@@ -2,11 +2,12 @@
 
 This documentation provides an overview and code implementation of a forgery detection model using the ELA (Error Level Analysis) technique and a Convolutional Neural Network (CNN) model. The code is written in Python using the Keras library.
 
-![Screenshot 2023-05-26 232110](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/df8be7ed-6844-4ee9-90d6-51c5cfb256fd)
-![Screenshot 2023-05-26 232211](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/7d5146f2-b6b1-417a-b1b6-e2e15795a85e)
-![Screenshot 2023-05-26 232128](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/22ffdfa7-ccb8-4941-93c8-8756118ddfbf)
-![Screenshot 2023-05-26 232144](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/1f5e5dfa-15ac-47d2-bcf9-b356274adb4e)
-![Screenshot 2023-05-26 232149](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/3395c58b-8964-4571-8c0b-c99a683d18a3)
+![Screenshot 2023-05-26 232110](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/95a3b524-23a8-4742-9d52-9d1a57032001)
+![Screenshot 2023-05-26 232128](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/b3a561c0-8f98-4f24-9b30-2e860e7ef277)
+![Screenshot 2023-05-26 232144](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/af2bbf26-19ef-4a56-a070-da2ffc13510b)
+![Screenshot 2023-05-26 232149](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/5e7cd8e7-9ba9-4188-8df5-4fc48a8c3730)
+![Screenshot 2023-05-26 232211](https://github.com/jessywilly091/Image-Forgery-Detection-Model-Using-CNN-Streamlit/assets/67820811/e6679231-6791-4b7c-b8fa-402524dae191)
+
 
 
 ## Table of Contents
